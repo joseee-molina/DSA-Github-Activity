@@ -3,7 +3,7 @@ def lets_roll():
     #Strings and arrays
     word = "hi how are you?"
     size = len(word)
-    arr = [1,2,"helo", [2,3,4], 5]
+    arr = [1,2,"hello", [2,3,4], 5]
     size = len(arr)
 
     #SETS
@@ -29,3 +29,4 @@ def lets_roll():
 
 if __name__ == "__main__":
     lets_roll()
+    
